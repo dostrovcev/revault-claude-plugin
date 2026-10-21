@@ -24,6 +24,6 @@ Answer with facts from the `revault` connector. Every tool here only reads.
 3. Numbers as a short table per sender: invites, accepts, accept rate, replies, reply rate.
 4. Offer one next step, for example drafting answers to the waiting replies (see the `revault-write-and-queue` skill) or crossing someone out of the queue with `exclude`.
 
-If a key sees several workspaces, `clients_list` names them; pass `client` to the other tools.
+If the account sees several workspaces, `clients_list` names them; give the workspace name in the `client` argument of the other tools.
 
 For a spreadsheet, `export_sheet` builds a Google Sheet; `export_message_plan` builds a Google Doc with upcoming messages.
