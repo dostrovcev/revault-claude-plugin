@@ -1,0 +1,25 @@
+{
+  "name": "revault",
+  "displayName": "Re:Vault",
+  "version": "1.0.0",
+  "description": "LinkedIn and email outreach run from your chat. Find people at companies showing a live marker (hiring for sales, a fresh round, a post on a topic), get verified work emails, write first messages on a fact with its source, queue them from your own LinkedIn, and see who replied and what the numbers say.",
+  "author": {
+    "name": "Re:Vault",
+    "email": "dmitry@re-vault.io",
+    "url": "https://re-vault.io"
+  },
+  "homepage": "https://re-vault.io/mcp/",
+  "repository": "https://github.com/dostrovcev/revault-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "outreach",
+    "linkedin",
+    "cold-email",
+    "lead-generation",
+    "prospecting"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://re-vault.io/privacy/",
+  "termsOfServiceUrl": "https://re-vault.io/terms/"
+}

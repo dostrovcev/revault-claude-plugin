@@ -1,0 +1,19 @@
+{
+  "name": "revault",
+  "owner": { "name": "Re:Vault", "email": "dmitry@re-vault.io" },
+  "metadata": {
+    "description": "Re:Vault plugins for Claude: LinkedIn and email outreach run from your chat.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "revault",
+      "source": "./revault",
+      "description": "LinkedIn and email outreach run from your chat: find people by a live marker, write messages on a sourced fact, see the queue, replies and numbers.",
+      "version": "1.0.0",
+      "author": { "name": "Re:Vault", "url": "https://re-vault.io" },
+      "homepage": "https://re-vault.io/mcp/",
+      "category": "sales"
+    }
+  ]
+}
