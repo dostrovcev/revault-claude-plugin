@@ -21,5 +21,7 @@
   ],
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://re-vault.io/privacy/",
-  "termsOfServiceUrl": "https://re-vault.io/terms/"
+  "termsOfServiceUrl": "https://re-vault.io/terms/",
+  "documentationUrl": "https://re-vault.io/mcp/start/",
+  "supportUrl": "mailto:dmitry@re-vault.io"
 }
